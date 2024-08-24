@@ -1,0 +1,3 @@
+[submodule "analapp"]
+	path = analapp
+	url = https://github.com/PareToudala/anal.git
